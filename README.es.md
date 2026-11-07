@@ -39,9 +39,9 @@ El propio repo es un tema completo de Discourse que demuestra los bloques en la 
 
 Este fork sigue a upstream y añade únicamente una traducción al español
 (`locales/es.yml`). Los bloques propios del foro viven en
-[discourse-custom-home-nautas](https://github.com/somos-criptonautas/discourse-custom-home-nautas)
+[discourse-custom-home-nautas](https://github.com/criptonautas/discourse-custom-home-nautas)
 y
-[discourse-user-tier-badge-nautas](https://github.com/somos-criptonautas/discourse-user-tier-badge-nautas).
+[discourse-user-tier-badge-nautas](https://github.com/criptonautas/discourse-user-tier-badge-nautas).
 
 ### Ajustes
 
